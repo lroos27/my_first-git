@@ -1,4 +1,6 @@
 Hello, this is my first note.
-I hope you think it's cool!
+
 I really think that I did this very well :)
-How are you doing?
+How are you?
+Now I deleted some things here.
+I hope it works as well as before.
