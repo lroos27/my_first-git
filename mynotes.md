@@ -1,3 +1,5 @@
+Yeyy adding is cool.
+I will  no add some lines
 Hello, this is my first note.
 
 I really think that I did this very well :)
