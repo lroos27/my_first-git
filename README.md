@@ -1,4 +1,4 @@
-# my_first-git
+# my_first_git
 My first git XP Lab
 
 
